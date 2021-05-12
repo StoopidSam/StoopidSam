@@ -4,7 +4,7 @@ Hey there! My name's Sam, and I am the owner of The Editing Zone, which is a Dis
 
 ## What I'm working on!
 
-I am currently working on a Discord bot called InsultoBot, which is a fun bot that insults members using randomly generated insults. It's a pretty basic bot at the moment, but I plan to add more features to it later on. You can invite the bot to your server here: https://tinyurl.com/InsultoBot.
+I am currently working on a blockchain government system.
 
 ## Socials?
 
